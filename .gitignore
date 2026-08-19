@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Source datasets are downloaded separately.
+Online_Sales.csv
+Discount_Coupon.csv
+Marketing_Spend.csv
+CustomersData.xlsx
+Tax_amount.xlsx
